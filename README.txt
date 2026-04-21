@@ -1,9 +1,12 @@
 Snippet Storage - Laragon Ready
 ===============================
+## 📸 Screenshots
 
-### Ledger
-![Ledger](Screenshots/creenshot20260421081552.png)
- 
+![Screenshot 1](https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081541.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081545.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081552.png)
 Database settings used by this project:
 - Database: 002_snippet_storage
 - User: root
