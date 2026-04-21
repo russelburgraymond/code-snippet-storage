@@ -1,1 +1,7 @@
-![Alt text](Screenshots/Screenshot2026-04-21081545.png)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/Screenshot2026-04-21081541.png" width="30%">
+  <img src="Screenshots/Screenshot2026-04-21081545.png" width="30%">
+  <img src="Screenshots/Screenshot2026-04-21081552.png" width="30%">
+</p>
