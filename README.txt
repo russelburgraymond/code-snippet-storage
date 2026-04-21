@@ -3,11 +3,11 @@ Snippet Storage - Laragon Ready
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshots/Screenshot%202026-04-21%20081541.png)
+![Screenshot 1](Screenshots/Screenshot202026-04-2120081541.png)
 
-![Screenshot 2](Screenshots/Screenshot%202026-04-21%20081545.png)
+![Screenshot 2](Screenshots/Screenshot202026-04-2120081545.png)
 
-![Screenshot 3](Screenshots/Screenshot%202026-04-21%20081552.png)
+![Screenshot 3](Screenshots/Screenshot202026-04-2120081552.png)
 
 
 
