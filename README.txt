@@ -2,7 +2,7 @@ Snippet Storage - Laragon Ready
 ===============================
 
 ### Ledger
-![Ledger](Screenshots/Screenshot2026-04-21081552.png)
+![Ledger](Screenshots/creenshot20260421081552.png)
  
 Database settings used by this project:
 - Database: 002_snippet_storage
