@@ -3,12 +3,8 @@ Snippet Storage - Laragon Ready
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Screenshots/Screenshot2026-04-21081541.png" width="30%">
-  <img src="Screenshots/Screenshot2026-04-21081545.png" width="30%">
-  <img src="Screenshots/Screenshot2026-04-21081552.png" width="30%">
-</p>
-
+![test](Screenshots/Screenshot2026-04-21081541.png)
+ 
 Database settings used by this project:
 - Database: 002_snippet_storage
 - User: root
