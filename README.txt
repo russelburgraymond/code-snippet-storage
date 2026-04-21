@@ -3,7 +3,11 @@ Snippet Storage - Laragon Ready
 
 ## 📸 Screenshots
 
-![test](Screenshots/screenshot2026-04-21081541.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081541.png" width="30%">
+  <img src="https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081545.png" width="30%">
+  <img src="https://raw.githubusercontent.com/russelburgraymond/code-snippet-storage/main/Screenshots/Screenshot2026-04-21081552.png" width="30%">
+</p>
  
 Database settings used by this project:
 - Database: 002_snippet_storage
