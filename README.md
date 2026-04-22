@@ -24,18 +24,6 @@
 
 ---
 
-<p align="center">
-  <img alt="GitHub release" src="https://img.shields.io/github/v/release/russelburgraymond/code-snippet-storage">
-</p>
-
-<p align="center">
-  <code>PHP 7.4+</code>
-  <code>MySQL / MariaDB supported</code>
-  <code>status active</code>
-</p>
-
----
-
 ## 🚀 What is Code Snippet Storage?
 
 **Code Snippet Storage** is your personal developer toolbox.
